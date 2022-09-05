@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @matheusmuller14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-matheusmuller14/matheusmuller14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 estou interessado em  educaca
+- 🌱 I’m currently learning photoshop 
+-  estou procurando colaborar no seed 
+- 📫 como me contatar matheus.muller.costa@escola.pr.gov.br
